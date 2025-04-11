@@ -54,4 +54,5 @@
     * ` Delete Multiple Tags : `
       
        * ` git push origin --delete tag1 tag2 tag3 `   
-         
+ ## Add an image in the README.md file.
+ ![Description of the image](./images/bo7a.jpg)
